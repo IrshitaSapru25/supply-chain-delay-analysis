@@ -6,7 +6,7 @@ This project analyzes delivery delays in a global supply chain to understand whi
 ## Tech Stack
 - SQL (PostgreSQL): Data cleaning, handling missing values, and aggregating shipping timelines
 - Power BI: Interactive dashboard development and KPI tracking
-- Data Source: Supply chain delivery dataset (Kaggle)
+- Data Source: Supply chain delivery dataset (<a href="https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis">Kaggle</a>)
 
 ---
 
