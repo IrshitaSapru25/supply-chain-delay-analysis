@@ -1,7 +1,5 @@
 ## Project Overview
-This project focuses on identifying bottlenecks within logistics operations by analyzing
-delivery performance and shipping delays. Using SQL for data manipulation and Power BI
-for visualization, raw shipment data was transformed into actionable business insights.
+This project analyzes delivery delays in a global supply chain to understand which shipping modes and regions are most prone to late deliveries. SQL was used to clean and analyze shipment data, and Power BI was used to build an interactive dashboard that highlights delay patterns and operational risks.
 
 ---
 
